@@ -18,4 +18,4 @@ Various key features of **`Hapi Js`** include:
 3. [**`NoSQL database`**](https://github.com/tutorial-point/hapi-mongodb-tutorial) - connecting a **`Mongodb`** database to your **`Hapi js`** server (**`mongoose`**).
 4. [**`Relational SQL database`**](https://github.com/tutorial-point/hapi-relational-sql) - connecting a relational **`SQL`** database to your **`Hapi js`** server (**`prisma`**)
 5. [**`Cache database`**](https://github.com/tutorial-point/hapi-cache-tutorial) - create a caching database for your **`Hapi js`** server (**`node-cache`**)
-6. [**`Typescript Migration`**](https://github.com/tutorial-point/hapi-tutorial-series.git) - migrate our Hapi js server to typescript.
+6. [**`Typescript Migration`**](https://github.com/tutorial-point/hapi-typescript-tutorial) - migrate our Hapi js server to typescript.
